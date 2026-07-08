@@ -2,6 +2,9 @@
   "expo": {
     "name": "LocalBasket",
     "slug": "localbasket",
-    "scheme": "localbasket"
+    "scheme": "localbasket",
+    "experiments": {
+      "reactCompiler": true
+    }
   }
 }
